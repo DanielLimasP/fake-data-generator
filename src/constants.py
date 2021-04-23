@@ -1,0 +1,5 @@
+USER = "SUPERUSER"
+PASSWORD = "75653c710b2c604c60f9a9fb4c70207a"
+AUTH_URL = "http://localhost:8000/api/auth/login"
+USERS_URL = "http://localhost:8000/api/users/"
+WAREHOUSES_URL = "http://localhost:8000/api/warehouse/"

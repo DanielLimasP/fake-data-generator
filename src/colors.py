@@ -1,0 +1,6 @@
+# ANSI Colors
+LIGHT_GRAY = "\033[0;37m"
+GREEN = "\033[0;32m"
+RED = "\033[0;31m"
+CYAN = "\033[0;36m"
+ITALIC = "\033[3m"
